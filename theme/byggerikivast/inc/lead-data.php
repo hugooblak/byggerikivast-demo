@@ -15,7 +15,5 @@ return array(
 		array( 'Erik har monterat terasstomme och lagt terass runt pool. Han har gjort ett veldigt bra jobb. Mycket professionellt utfört. Trevlig och duktig yrkesman. Tomas Norrefjord.', 'Tomas Norrefjord', 'för 6 år sedan' ),
 		array( 'Bygg-Erik är lösningsfokuserad, förklarar på ett bra sätt och utför ett förstklassigt arbete. Rekommenderas absolut!', 'Fredrik S', 'för 6 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
