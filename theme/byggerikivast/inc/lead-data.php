@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Bygg-Erik i Väst AB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '079-329 62 32',
 	'telefon_tel'    => '+46793296232',
 	'betyg'          => '4,4',
